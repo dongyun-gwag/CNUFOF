@@ -32,10 +32,10 @@ pydl    0.7.0
 You must check the versions of these libraries ! If CNUFOF doesn't run, you need to change some version.
 
  Based on observing data Parallelizing Friends of Friends algorithm 
-ra (0~360) , dec (-90~90 ) , redshift ( > 1e-3) 
+ra [0,360] , dec [-90,90] , redshift [> 1e-3] 
 
 
-Note 
+Note)
 - Set linking length [Physical Distance [kpc] | velocity [km/s]] , nmin(minimum number of particles(galaxies)) 
 
 - The group name you run as whole at once may be different from the group you run in parallel. But, The particles found for each group will be the same 
