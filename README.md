@@ -32,7 +32,7 @@ pydl    0.7.0
 You must check the versions of these libraries ! If CNUFOF doesn't run, you need to change some version.
 
  Based on observing data Parallelizing Friends of Friends algorithm 
-ra (0~360[degree]), dec (- 90~90[degree]), redshift (>=10^(-3))
+ra (0~360) , dec (-90~90 ) , redshift ( > 1e-3) 
 
 
 Note) 
