@@ -19,7 +19,7 @@ I want your opinions and thoughts about the code. Please feel free to contact me
 * time (Total time check)
 * sys (set recursionlimit) 
 
-Version 1.0.4 2023.06.27
+Version 1.0.4 2024.07.04
 Version of packages used. (Please check these versions)
 
 **python  3.9.18
