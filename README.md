@@ -27,6 +27,8 @@ numpy   1.24.0
 astropy 5.1.1
 pandas  2.1.4
 pydl    0.7.0 
+
+
 **ray     2.2.0 -> very sensitive to version
 
 You must check the versions of these libraries ! If CNUFOF doesn't run, you need to change some version.
